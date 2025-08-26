@@ -4,7 +4,7 @@ The project is organized as follows:
 
 - *Backend (Java + Servlets)*: Handles business logic and database interactions.
 - *Frontend (JSP + HTML + CSS)*: Provides UI for users.
-- *Database*: SQL database for storing users, orders, and restaurants.
+- *Database*: SQL database for storing users.
 
 ## Screenshot of Project in Eclipse
 
